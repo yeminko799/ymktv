@@ -5,8 +5,6 @@ https://5a13fe32ef748.streamlock.net/mmplay/channel7/chunklist_w1985887047.m3u8
 https://pplive.comquas.com:5443/LiveApp/streams/y5IK976tl6z71683227450164.m3u8
 #EXTINF:-1,MRTV-4 HD
 https://ppradio.b-cdn.net/LiveApp/streams/w3g3EYjBtqgJ1677679288037.m3u8
-#EXTINF:-1,Mahar
-https://tv.mahar.live/mahar/website.stream/mahar/website1/chunks.m3u8
 #EXTINF: -1 group-title="Myanmar",MRTV Entertainment
 https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/chunklist_w1578284018.m3u8
 #EXTINF:-1,Fortune Tv (YMK)
@@ -19,8 +17,6 @@ https://tv.mahar.live/esports/mahar.stream/esports/mahar1/chunks.m3u8
 https://5a13fe32ef748.streamlock.net/mmplay/5plus/chunklist_w1869259503.m3u8
 #EXTINF: -1 group-title="Myanmar",MITV
 https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream.m3u8
-#EXTINF:-1,MNTV
-http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1,Channel K
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8
 #EXTINF:-1,Mahar
